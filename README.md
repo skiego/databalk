@@ -1,18 +1,6 @@
-# React Support Engine
-
-<img 
-    src="https://chat-engine-assets.s3.amazonaws.com/tutorials/react-support-engine/support-engine-demo.gif" 
-    width="75%" 
-    height="100%"
-/>
-
-This project is powered by [Chat Engine](https://chatengine.io).
 
 ## Setup
 
-First, go to [Chat Engine](https://chatengine.io) and create a account and project.
-
-Create a `.env.local` local file and set the following environment variabled.
 
 ```
 REACT_APP_CE_PRIVATE_KEY=XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
