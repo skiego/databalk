@@ -1,4 +1,5 @@
-
+Nb the app is running smoothly on the login and with firebase data base for aunthentification 
+after u login the app will go straight to the chat app 
 ## Setup
 
 
